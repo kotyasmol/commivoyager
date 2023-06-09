@@ -2,6 +2,7 @@
  
 # Отчеты
 Отчет по автоматизированному рабочему месту АРМ: [Арм](/reports/Graph.MD)
+
 Отчет по задаче Комивояжера: [Граф](/reports/Graph.MD)
 # Видео отчет
 Ссылка на YouTube: https://www.youtube.com/watch?v=6t896xnoQOw
