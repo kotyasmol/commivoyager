@@ -14,4 +14,4 @@
 Работа программы ![image](https://github.com/kotyasmol/labs_pstu_year_1/assets/115986016/9055a845-47ed-4889-8c88-a738e2e809e0)
 ![image](https://github.com/kotyasmol/labs_pstu_year_1/assets/115986016/02511a9b-697b-48ac-948d-7a43c6af4b9d)
 Исходный код
-Исходный код представлен в репозитории:
+Исходный код представлен в репозитории: https://github.com/kotyasmol/commivoyager/tree/main/commivoyager
