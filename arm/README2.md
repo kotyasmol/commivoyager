@@ -19,4 +19,4 @@
 
 
 ## Исходный код
-Исходный код представлен в репозитории
+Исходный код представлен в репозитории https://github.com/kotyasmol/commivoyager-arm/tree/main/arm
