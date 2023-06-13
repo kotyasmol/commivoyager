@@ -13,8 +13,8 @@
 Далее открыть файл sln файл и скомпилировать программу. Для корректного запуска необходима sfml библеотека версии 2.5.1
 
 ## Работа программы
-![commivoyager1](https://github.com/kohaiisweety/commivoyager/assets/130177455/e88de000-6be2-4b7c-8ae4-66a7ad91f95d)
-![1](https://github.com/kohaiisweety/commivoyager/assets/130177455/32bb33dd-2103-4333-a5a0-79f977d14f1d)
+![commivoyager1](https://github.com/kotyasmol/commivoyager-arm/blob/main/1.png)
+![1](https://github.com/kotyasmol/commivoyager-arm/blob/main/2.png)
 
 
 ## Исходный код
